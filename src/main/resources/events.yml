@@ -1,0 +1,16 @@
+events:
+  KoTH:
+    enabled: true
+    interval: 30 # in minuten
+  Conquest:
+    enabled: true
+    interval: 45 # in minuten
+  GlowstoneMountain:
+    enabled: true
+    interval: 60 # in minuten
+  OreMountain:
+    enabled: true
+    interval: 60 # in minuten
+  Purge:
+    enabled: true
+    interval: 120 # in minuten

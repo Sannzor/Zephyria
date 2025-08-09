@@ -1,0 +1,12 @@
+database:
+  type: "mongodb" # of "mysql"
+  mongodb:
+    host: "localhost"
+    port: 27017
+    database: "zephyria"
+  mysql:
+    host: "localhost"
+    port: 3306
+    username: "user"
+    password: "password"
+    database: "zephyria"

@@ -1,0 +1,6 @@
+factions:
+  friendly-fire: false        # Vrienden kunnen elkaar niet aanvallen
+  deathban: true              # Spelers worden verbannen voor een periode na hun dood
+  deathban-duration: 60000 # in milliseconden
+  rally-time: 10              # De tijd voor een rally in minuten
+  max-members: 20            # Maximale leden per faction

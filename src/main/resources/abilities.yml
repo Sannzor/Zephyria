@@ -1,0 +1,16 @@
+abilities:
+  Fireball:
+    enabled: true
+    cooldown: 25 # in seconden
+  Speed:
+    enabled: true
+    cooldown: 15 # in seconden
+  Anti-Fall:
+    enabled: true
+    cooldown: 60 # in seconden
+  PrePearl:
+    enabled: true
+    cooldown: 30 # in seconden
+  SwitchStick:
+    enabled: true
+    cooldown: 20 # in seconden

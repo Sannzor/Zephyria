@@ -1,0 +1,25 @@
+license:
+
+kit-map-mode: true
+uhcf-mode: true
+
+# Spawn coördinaten
+spawn-coordinates:
+  x: 100
+  y: 64
+  z: 100
+
+# End-exit coördinaten
+end-exit-coordinates:
+  x: 200
+  y: 64
+  z: 200
+
+# uHCF mode instellingen
+deathban-time: 120 # Tijd in seconden voor deathban
+deathban-enabled: true
+
+donator-perks:
+  speed: true
+  fire-resistance: true
+  invisibility: false

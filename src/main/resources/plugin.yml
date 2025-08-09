@@ -1,0 +1,30 @@
+name: Zephyria
+version: '1.0-SNAPSHOT'
+main: com.zephyria.Zephyria
+api-version: '1.18'
+load: STARTUP
+authors: [ PingLagger ]
+description: Zephyria the best UHCF and HCF Plugin on the market!
+
+
+permissions:
+  zephyria.command.troll:
+    description: Toegang tot troll commands
+    default: op
+  zephyria.command.ability:
+    description: Toegang tot ability commands
+    default: true
+  zephyria.command.reclaim:
+    description: Toegang tot daily reclaim
+    default: true
+  zephyria.command.faction:
+    description: Toegang tot faction commando’s
+    default: true
+  zephyria.command.event:
+    description: Toegang tot event commando’s
+    default: op
+  zephyria.donator:
+    description: Toegang tot donateur perks
+    default: false
+
+
